@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_RJ29RDX_ll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Jasmine_Kn01")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Alexa_4_Bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Kn_Musiicc_BoT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Alexa")
+BOT_NAME = getenv("BOT_NAME" , "Kɴ Mᴜsɪᴄ")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "MissAlexa")
+ASSUSERNAME = getenv("ASSUSERNAME" , "NANDAN_REIGNS")
 # ---------------------------------------------------------
 
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1001787495771))
+LOGGER_ID = int(getenv("LOGGER_ID", -1001999850569))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 1777270311))
+OWNER_ID = int(getenv("OWNER_ID", 5829873302))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+m4oVCt2zFhYyMTdl")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+RObRa7kXPIJmMjU1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/KnMoviez")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Kn_Musiic")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,7 +141,7 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/cfbdee8103102bcb2e5da.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/20d8f7a5bc0bbfbf769e0.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/00360393a15daf7fc4e9d.jpg"
