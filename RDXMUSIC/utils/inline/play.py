@@ -67,17 +67,15 @@ def stream_markup_timer(_, chat_id, played, dur):
             )
         ],
         [
-            InlineKeyboardButton(text="💜", url="https://t.me/+m4oVCt2zFhYyMTdl"),
-            InlineKeyboardButton(text="💚", url="https://t.me/+okCO84m2hZxjYTE9"),            
-            InlineKeyboardButton(text="💙", url="https://www.youtube.com/channel/UCoOmopJ8YVYz9Lm8iHhNYMw"),
-            InlineKeyboardButton(text="🧡", url="https://t.me/+KRt7ApiJ5Ek2ZjY1"),
+            InlineKeyboardButton(text="💜", url="https://t.me/KnMoviez"),
+            InlineKeyboardButton(text="💚", url="https://t.me/STD_DEEPANSHU"),            
         ],
         [
         
             InlineKeyboardButton(
-                text="˹sᴜᴘᴘ๏ʀᴛ˼", url="https://t.me/+RObRa7kXPIJmMjU1"
+                text="˹sᴜᴘᴘ๏ʀᴛ˼", url="https://t.me/Kn_Musiic"
             ),
-            InlineKeyboardButton(text="˹๏ᴡɴєꝛ˼", user_id="1777270311"),           
+            InlineKeyboardButton(text="˹๏ᴡɴєꝛ˼", user_id="1404622369"),           
         ],
     ]
     return buttons
@@ -129,23 +127,23 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="˹sᴜᴘᴘ๏ʀᴛ˼", url="https://t.me/+PtOLQT04ocMzOTJl",
+                text="˹sᴜᴘᴘ๏ʀᴛ˼", url="https://t.me/Kn_Musiic",
             ),
             InlineKeyboardButton(
-                text="˹νɪᴘ ᴡᴏʀʟᴅ˼", url="https://t.me/+RObRa7kXPIJmMjU1",
+                text="˹νɪᴘ ᴡᴏʀʟᴅ˼", url="https://t.me/KnMoviez",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="˹ᴀʙᴏᴜᴛ˼", url="https://t.me/+okCO84m2hZxjYTE9",
+                text="˹ᴀʙᴏᴜᴛ˼", url="https://t.me/STD_DEEPANSHU",
                 ),
             InlineKeyboardButton(
-                text="˹๏ᴡɴєꝛ˼", user_id="1777270311",
+                text="˹๏ᴡɴєꝛ˼", user_id="1404622369",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="˹ʏᴏᴜᴛᴜʙᴇ˼", url="https://www.youtube.com/channel/UCoOmopJ8YVYz9Lm8iHhNYMw",
+                text="˹ʏᴏᴜᴛᴜʙᴇ˼", url="ALLTYPECC",
              ),
         ],
         [
