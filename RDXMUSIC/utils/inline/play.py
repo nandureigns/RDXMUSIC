@@ -68,7 +68,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(text="💜", url="https://t.me/KnMoviez"),
-            InlineKeyboardButton(text="💚", url="https://t.me/STD_DEEPANSHU"),            
+            InlineKeyboardButton(text="💚", url="https://t.me/Kn_BoTs"),            
         ],
         [
         
@@ -100,11 +100,11 @@ def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
         [
             InlineKeyboardButton(
                 text=_["P_B_1"],
-                callback_data=f"RDXPlaylists {videoid}|{user_id}|{ptype}|a|{channel}|{fplay}",
+                callback_data=f"KnPlaylists {videoid}|{user_id}|{ptype}|a|{channel}|{fplay}",
             ),
             InlineKeyboardButton(
                 text=_["P_B_2"],
-                callback_data=f"RDXPlaylists {videoid}|{user_id}|{ptype}|v|{channel}|{fplay}",
+                callback_data=f"KnPlaylists {videoid}|{user_id}|{ptype}|v|{channel}|{fplay}",
             ),
         ],
         [
@@ -135,7 +135,7 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="˹ᴀʙᴏᴜᴛ˼", url="https://t.me/STD_DEEPANSHU",
+                text="˹ᴀʙᴏᴜᴛ˼", url="https://t.me/Kn_BoTs",
                 ),
             InlineKeyboardButton(
                 text="˹๏ᴡɴєꝛ˼", user_id="1404622369",
